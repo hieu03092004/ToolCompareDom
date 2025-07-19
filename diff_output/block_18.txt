@@ -1,0 +1,418 @@
+======= BLOCK 18 =======
+
+------ From URL A ------
+<div class="mod_content_slider container  tinted" data-s3-module="">
+  <div class="row">
+    <div class="tns-outer" id="tns3-ow">
+      <div class="tns-nav" aria-label="Carousel Pagination" style="display: none;"><button type="button" data-nav="0" aria-controls="tns3" style="display:none" aria-label="Carousel Page 1 (Current Slide)" class="tns-nav-active"></button><button type="button" data-nav="1" tabindex="-1" aria-controls="tns3" style="display:none" aria-label="Carousel Page 2"></button><button type="button" data-nav="2" tabindex="-1" aria-controls="tns3" style="display:none" aria-label="Carousel Page 3"></button></div>
+      <div class="tns-liveregion tns-visually-hidden" aria-live="polite" aria-atomic="true">slide <span class="current">6 to 8</span> of 3</div>
+      <div id="tns3-mw" class="tns-ovh">
+        <div class="tns-inner" id="tns3-iw">
+          <div class="cslider alt-style  tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal" id="tns3" style="transition-duration: 0s; transform: translate3d(-38.4615%, 0px, 0px);">
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Events</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/events/" class="cta">
+                    Events
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Events" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Financing</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/financing/" class="cta">
+                    Financing
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Financing" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Specials</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/specials/" class="cta">
+                    Specials
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Specials" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Events</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/events/" class="cta">
+                    Events
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Events" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Financing</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/financing/" class="cta">
+                    Financing
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Financing" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="300ms" id="tns3-item0" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Specials</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/specials/" class="cta">
+                    Specials
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Specials" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="600ms" id="tns3-item1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Events</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/events/" class="cta">
+                    Events
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Events" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="900ms" id="tns3-item2" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Financing</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/financing/" class="cta">
+                    Financing
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Financing" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Specials</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/specials/" class="cta">
+                    Specials
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Specials" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Events</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/events/" class="cta">
+                    Events
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Events" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Financing</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/financing/" class="cta">
+                    Financing
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Financing" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Specials</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/specials/" class="cta">
+                    Specials
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Specials" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Events</h3>
+                </div>
+                <div class="button-area">
+                  <a href="/about/events/" class="cta">
+                    Events
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Events" draggable="false">
+                </picture>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_content_slider container  tinted" data-s3-module="">
+  <div class="row">
+    <div class="tns-outer" id="tns3-ow">
+      <div class="tns-liveregion tns-visually-hidden" aria-live="polite" aria-atomic="true">slide <span class="current">5 to 8</span> of 3</div>
+      <div id="tns3-mw" class="tns-ovh">
+        <div class="tns-inner" id="tns3-iw">
+          <div class="cslider alt-style  tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal" id="tns3" style="transition-duration: 0s; transform: translate3d(-36.3636%, 0px, 0px);">
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Financing</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/financing/" class="cta">
+                    Financing
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Financing" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Specials</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/specials/" class="cta">
+                    Specials
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Specials" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Events</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/events/" class="cta">
+                    Events
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Events" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Financing</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/financing/" class="cta">
+                    Financing
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Financing" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="300ms" id="tns3-item0" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Specials</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/specials/" class="cta">
+                    Specials
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Specials" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="600ms" id="tns3-item1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Events</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/events/" class="cta">
+                    Events
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Events" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="900ms" id="tns3-item2" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Financing</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/financing/" class="cta">
+                    Financing
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Financing" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-slide-active tns-transparent" data-wow-delay="300ms" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Specials</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/specials/" class="cta">
+                    Specials
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Specials" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Events</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/events/" class="cta">
+                    Events
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336977-events.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Events" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Financing</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/financing/" class="cta">
+                    Financing
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643337002-financing.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Financing" draggable="false">
+                </picture>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned tns-transparent" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content alt">
+                <div class="title-container">
+                  <h3 role="heading">Specials</h3>
+                </div>
+                <div class="button-area">
+                  <a href="about/specials/" class="cta">
+                    Specials
+                  </a>
+                </div>
+                <picture class="">
+                  <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=630 2x">
+                  <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643336949-specials.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Specials" draggable="false">
+                </picture>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tns-controls" tabindex="0" style="display: none;"><button type="button" data-controls="prev" aria-label="Prev button" tabindex="-1" aria-controls="tns3"></button><button type="button" data-controls="next" aria-label="Next button" tabindex="-1" aria-controls="tns3"></button></div>
+    </div>
+  </div>
+</div>
+

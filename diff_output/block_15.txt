@@ -1,0 +1,46 @@
+======= BLOCK 15 =======
+
+------ From URL A ------
+<div class="mod_half_image    half-image container wow fadeInLeft" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row  ">
+    <div class="media">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=1200 2x">
+        <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=1400, https://www.datocms-assets.com/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=2100 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=1412"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=1412" loading="lazy" data-lazyload="img" width="1412" height="1152" alt="Man's sculpted chest " draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy ">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Men</span> The final step in your weight loss journey</h2>
+        <p>NYBG Plastic Surgery is now pleased to offer our array of outstanding cosmetic procedures to our male clients of all ages and backgrounds, who surely deserve to look and feel their best through aesthetic improvement just as women have been doing for years.</p>
+        <p>We provide both surgical and non-surgical treatments for men for the face, chest, abdomen, thighs, and skin, working to revitalize your image, boost self-confidence, and take your professional image to the next level. From gynecomastia treatment to laser therapy, dermal fillers, and blepharoplasty, we can supply you with comprehensive, personalized changes that powerfully yet subtly maximize your unique and masculine attractiveness.</p>
+        <p><a href="/men/" class="btn">Learn more about procedures for men</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_half_image    half-image container wow fadeInLeft" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row  ">
+    <div class="media">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=1200 2x">
+        <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=1400, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=2100 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=1412"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139149-homepage13.jpg?auto=format,compress&amp;w=1412" loading="lazy" data-lazyload="img" width="1412" height="1152" alt="Man's sculpted chest " draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy ">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Men</span> The final step in your weight loss journey</h2>
+        <p>NYBG Plastic Surgery is now pleased to offer our array of outstanding cosmetic procedures to our male clients of all ages and backgrounds, who surely deserve to look and feel their best through aesthetic improvement just as women have been doing for years.</p>
+        <p>We provide both surgical and non-surgical treatments for men for the face, chest, abdomen, thighs, and skin, working to revitalize your image, boost self-confidence, and take your professional image to the next level. From gynecomastia treatment to laser therapy, dermal fillers, and blepharoplasty, we can supply you with comprehensive, personalized changes that powerfully yet subtly maximize your unique and masculine attractiveness.</p>
+        <p><a href="men/" class="btn">Learn more about procedures for men</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+

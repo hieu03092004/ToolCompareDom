@@ -1,0 +1,22 @@
+======= BLOCK 14 =======
+
+------ From URL A ------
+<div class="mod_quote container wow fadeInUp" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row  long  author mb-80 option-1">
+    <div class="inner" data-api-key="quote">
+      <h3>Dr. Small is a gifted surgeon. He puts his heart and soul into his patients' well-being. Dr. Small and his team are professional and caring and are always available with answers to even the silliest questions! I am eternally grateful for Dr. Small and his team's commitment to my well-being and for giving me my life back!</h3>
+      <p class="author" data-api-key="author">Mollie</p>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_quote container wow fadeInUp" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row  long  author mb-80 option-1">
+    <div class="inner" data-api-key="quote">
+      <h3>Dr. Small is a gifted surgeon. He puts his heart and soul into his patients’ well-being. Dr. Small and his team are professional and caring and are always available with answers to even the silliest questions! I am eternally grateful for Dr. Small and his team’s commitment to my well-being and for giving me my life back!</h3>
+      <p class="author" data-api-key="author">Mollie</p>
+    </div>
+  </div>
+</div>
+

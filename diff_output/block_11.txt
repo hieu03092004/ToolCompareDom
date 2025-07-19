@@ -1,0 +1,58 @@
+======= BLOCK 11 =======
+
+------ From URL A ------
+<div class="mod_half_image   links half-image container wow fadeInLeft" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row  flipped">
+    <div class="media">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=1200 2x">
+        <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=1400, https://www.datocms-assets.com/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=2100 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=1412"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=1412" loading="lazy" data-lazyload="img" width="1412" height="1152" alt="Woman smiling with her head faced downward, wearing white bra" draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy ">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Helping Balance Your Shape With</span> Breast Procedures</h2>
+        <p>There are many reasons you may be dissatisfied with the appearance of your breasts, and this can have a subtle or profound impact on numerous areas of your life. Breasts define upper body shape and dictate the range of clothing that fits and looks best. Having the breasts you feel make you more attractive or shapely is often a life-changing event.&nbsp;</p>
+        <p>Whether your breasts need correction due to age, pregnancy, genetics, or injury, our full range of cosmetic procedures can result in a stunning improvement that lifts your spirits and makes you feel shapely and attractive. We’ve performed thousands of successful surgical operations ranging from lifts and breast reductions to breast augmentations and gynecomastia (correction of male breast growth).</p>
+        <p><a href="/breast/" class="btn">Learn more about breast procedures</a></p>
+      </div>
+    </div>
+    <div class="row links-list">
+      <a href="/breast/breast-augmentation/" role="link" aria-label="Link to Breast Augmentation page">Breast Augmentation</a>
+      <a href="/breast/breast-reduction/" role="link" aria-label="Link to Breast Reduction page">Breast Reduction</a>
+      <a href="/breast/breast-lift/" role="link" aria-label="Link to Breast Lift page">Breast Lift</a>
+      <a href="/breast/breast-reconstruction/" role="link" aria-label="Link to Breast Reconstruction page">Breast Reconstruction</a>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_half_image   links half-image container wow fadeInLeft" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row  flipped">
+    <div class="media">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=1200 2x">
+        <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=1400, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=2100 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=1412"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139129-homepage8.jpg?auto=format,compress&amp;w=1412" loading="lazy" data-lazyload="img" width="1412" height="1152" alt="Woman smiling with her head faced downward, wearing white bra" draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy ">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Helping Balance Your Shape With</span> Breast Procedures</h2>
+        <p>There are many reasons you may be dissatisfied with the appearance of your breasts, and this can have a subtle or profound impact on numerous areas of your life. Breasts define upper body shape and dictate the range of clothing that fits and looks best. Having the breasts you feel make you more attractive or shapely is often a life-changing event. </p>
+        <p>Whether your breasts need correction due to age, pregnancy, genetics, or injury, our full range of cosmetic procedures can result in a stunning improvement that lifts your spirits and makes you feel shapely and attractive. We’ve performed thousands of successful surgical operations ranging from lifts and breast reductions to breast augmentations and gynecomastia (correction of male breast growth).</p>
+        <p><a href="breast/" class="btn">Learn more about breast procedures</a></p>
+      </div>
+    </div>
+    <div class="row links-list">
+      <a href="breast/breast-augmentation/" role="link" aria-label="Link to Breast Augmentation page">Breast Augmentation</a>
+      <a href="breast/breast-reduction/" role="link" aria-label="Link to Breast Reduction page">Breast Reduction</a>
+      <a href="breast/breast-lift/" role="link" aria-label="Link to Breast Lift page">Breast Lift</a>
+      <a href="breast/breast-reconstruction/" role="link" aria-label="Link to Breast Reconstruction page">Breast Reconstruction</a>
+    </div>
+  </div>
+</div>
+

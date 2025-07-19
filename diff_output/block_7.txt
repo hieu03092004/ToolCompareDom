@@ -1,0 +1,92 @@
+======= BLOCK 7 =======
+
+------ From URL A ------
+<div class="mod_half_image_tab   half-image container wow " data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row pt-60 ">
+    <div class="media active item-1">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=1200 2x">
+        <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=1400, https://www.datocms-assets.com/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=2100 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=1412"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=1412" loading="lazy" data-lazyload="img" width="1412" height="951" alt="Image of a man" draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy active item-1">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Guiding Your Journey</span> From Start to Finish</h2>
+        <p>NYBG can help patients at every step of their journey including pre, and post weight loss. For men interested in bariatric surgery, they can help you select the right procedure. After you have lost excess weight our surgeons can help sculpt your shape. This may include gynecomastia, liposuctions, or procedures to remove excess skin in order to enhance your features.</p>
+        <a href="/men/" class="btn">See procedures for men</a>
+      </div>
+    </div>
+    <div class="media item-2">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=1200 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=1200 2x">
+        <source media="(max-width:1400px)" srcset="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=1400, https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=2100 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=1400, https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=2100 2x">
+        <source srcset="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=1412" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=1412"> <img src="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=1412" data-lazyload-src="https://www.datocms-assets.com/60131/1643684175-women.jpg?auto=format,compress&amp;w=1412" loading="lazy" data-lazyload="img" width="1412" height="951" alt="Image of a woman" draggable="false" data-api-key="image" data-lazyload-loaded="true">
+      </picture>
+    </div>
+    <div class="copy item-2">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Guiding Your Journey</span> From Start to Finish</h2>
+        <p>Often losing weight can be more difficult for women. Stubborn fat can be more difficult to lose, and the effects of pregnancy and childbirth last for years. At NYBG our staff can help you select a bariatric procedure that works best for you, and then help you with further body contouring once you have achieved your bariatric procedure results.</p>
+        <a href="/body/" class="btn">See all body procedures</a>
+      </div>
+    </div>
+    <div class="accent wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+      <picture class="accent-image">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643222005-logomark.png?auto=format,compress&amp;w=226"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643222005-logomark.png?auto=format,compress&amp;w=226" loading="lazy" data-lazyload="img" width="226" height="226" alt="NYBG Plastic Surgery" draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="row links-list">
+      <a href="javascript:void(0)" id="item-1" class="active" role="none">Men</a>
+      <a href="javascript:void(0)" id="item-2" class="" role="none">Women</a>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_half_image_tab   half-image container wow " data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row pt-60 ">
+    <div class="media active item-1">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=1200 2x">
+        <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=1400, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=2100 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=1412"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139120-homepage6.jpg?auto=format,compress&amp;w=1412" loading="lazy" data-lazyload="img" width="1412" height="951" alt="Image of a man" draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy active item-1">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Guiding Your Journey</span> From Start to Finish</h2>
+        <p>NYBG can help patients at every step of their journey including pre, and post weight loss. For men interested in bariatric surgery, they can help you select the right procedure. After you have lost excess weight our surgeons can help sculpt your shape. This may include gynecomastia, liposuctions, or procedures to remove excess skin in order to enhance your features.</p>
+        <a href="men/" class="btn">See procedures for men</a>
+      </div>
+    </div>
+    <div class="media item-2">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=1200 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=1200 2x">
+        <source media="(max-width:1400px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=1400, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=2100 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=1400, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=2100 2x">
+        <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=1412" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=1412"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=1412" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643684175-women.jpg?auto=format,compress&amp;w=1412" loading="lazy" data-lazyload="img" width="1412" height="951" alt="Image of a woman" draggable="false" data-api-key="image" data-lazyload-loaded="true">
+      </picture>
+    </div>
+    <div class="copy item-2">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Guiding Your Journey</span> From Start to Finish</h2>
+        <p>Often losing weight can be more difficult for women. Stubborn fat can be more difficult to lose, and the effects of pregnancy and childbirth last for years. At NYBG our staff can help you select a bariatric procedure that works best for you, and then help you with further body contouring once you have achieved your bariatric procedure results.</p>
+        <a href="body/" class="btn">See all body procedures</a>
+      </div>
+    </div>
+    <div class="accent wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+      <picture class="accent-image">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643222005-logomark.png?auto=format,compress&amp;w=226"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643222005-logomark.png?auto=format,compress&amp;w=226" loading="lazy" data-lazyload="img" width="226" height="226" alt="NYBG Plastic Surgery" draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="row links-list">
+      <a href="javascript:void(0)" id="item-1" class="active" role="none">Men</a>
+      <a href="javascript:void(0)" id="item-2" class="" role="none">Women</a>
+    </div>
+  </div>
+</div>
+

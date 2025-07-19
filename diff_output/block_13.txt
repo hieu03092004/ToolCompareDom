@@ -1,0 +1,40 @@
+======= BLOCK 13 =======
+
+------ From URL A ------
+<div class="mod_home_gallery container cta  wow " data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <picture class="icon">
+    <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643222005-logomark.png?auto=format,compress&amp;w=226"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643222005-logomark.png?auto=format,compress&amp;w=226" loading="lazy" data-lazyload="img" width="226" height="226" alt="NYBG Plastic Surgery" draggable="false">
+  </picture>
+  <div class="row">
+    <div class="text">
+      <h2>Gallery</h2>
+      <a class="btn validate" href="/gallery/" title="View gallery images" aria-label="View gallery images">View Gallery</a>
+    </div>
+  </div>
+  <picture class="background">
+    <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=630 2x">
+    <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=1200 2x">
+    <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=1400, https://www.datocms-assets.com/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=2100 2x">
+    <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=2200"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=2200" loading="lazy" data-lazyload="img" width="2200" height="834" alt="Close up of three women's abdominal area, wearing bikinis " draggable="false">
+  </picture>
+</div>
+
+------ From URL B ------
+<div class="mod_home_gallery container cta  wow " data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <picture class="icon">
+    <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643222005-logomark.png?auto=format,compress&amp;w=226"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643222005-logomark.png?auto=format,compress&amp;w=226" loading="lazy" data-lazyload="img" width="226" height="226" alt="NYBG Plastic Surgery" draggable="false">
+  </picture>
+  <div class="row">
+    <div class="text">
+      <h2>Gallery</h2>
+      <a class="btn validate" href="gallery/" title="View gallery images" aria-label="View gallery images">View Gallery</a>
+    </div>
+  </div>
+  <picture class="background">
+    <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=630 2x">
+    <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=1200 2x">
+    <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=1400, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=2100 2x">
+    <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=2200"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139144-homepage12.jpg?auto=format,compress&amp;w=2200" loading="lazy" data-lazyload="img" width="2200" height="834" alt="Close up of three women's abdominal area, wearing bikinis " draggable="false">
+  </picture>
+</div>
+

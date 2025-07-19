@@ -1,0 +1,214 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block 8 Comparison</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f6f8fa;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 6px;
+            border: 1px solid #d0d7de;
+            overflow: hidden;
+        }
+        .header {
+            background: #f6f8fa;
+            border-bottom: 1px solid #d0d7de;
+            padding: 16px 20px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 16px;
+            font-weight: 600;
+            color: #24292f;
+        }
+        .file-header {
+            background: #f6f8fa;
+            border-bottom: 1px solid #d0d7de;
+            padding: 8px 16px;
+            font-size: 12px;
+            color: #656d76;
+            display: flex;
+            align-items: center;
+        }
+        .file-header .url {
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            background: #f3f4f6;
+            padding: 2px 6px;
+            border-radius: 3px;
+            margin-left: 8px;
+        }
+        .diff-container {
+            display: flex;
+        }
+        .diff-panel {
+            flex: 1;
+            border-right: 1px solid #d0d7de;
+        }
+        .diff-panel:last-child {
+            border-right: none;
+        }
+        .diff-header {
+            background: #f6f8fa;
+            padding: 8px 12px;
+            border-bottom: 1px solid #d0d7de;
+            font-size: 12px;
+            font-weight: 600;
+            color: #24292f;
+        }
+        .diff-content {
+            padding: 8px;
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-size: 12px;
+            line-height: 1.45;
+            overflow-x: auto;
+            min-height: 200px;
+        }
+        .diff-line {
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        .diff-added {
+            background-color: #ccfdf7;
+            color: #064e3b;
+            text-decoration: none;
+            padding: 1px 2px;
+            border-radius: 2px;
+        }
+        .diff-removed {
+            background-color: #fecaca;
+            color: #991b1b;
+            text-decoration: none;
+            padding: 1px 2px;
+            border-radius: 2px;
+        }
+        .url-a {
+            background: #ffeaa7;
+        }
+        .url-b {
+            background: #d4f7d4;
+        }
+        .stats {
+            padding: 12px 16px;
+            background: #f6f8fa;
+            border-top: 1px solid #d0d7de;
+            font-size: 12px;
+            color: #656d76;
+        }
+        .stats .added {
+            color: #1a7f37;
+            font-weight: 600;
+        }
+        .stats .removed {
+            color: #cf222e;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📋 Block 8 Comparison Report</h1>
+        </div>
+        
+        <div class="file-header">
+            <span>🔍 Comparing:</span>
+            <span class="url url-a">https://www.nybgplasticsurgery.com (Base)</span>
+            <span>vs</span>
+            <span class="url url-b">http://plasticsurgery-06-2025.local (Target)</span>
+        </div>
+
+        <div class="diff-container">
+            <div class="diff-panel">
+                <div class="diff-header">🟢 Site gốc (https://www.nybgplasticsurgery.com)</div>
+                <div class="diff-content">
+                    <div class="diff-line">&lt;div class=&quot;mod_home_step  container&quot; data-s3-module=&quot;&quot;&gt;
+  &lt;div class=&quot;row wow &quot; data-wow-duration=&quot;2s&quot; style=&quot;visibility: hidden; animation-duration: 2s; animation-name: none;&quot;&gt;
+    &lt;div class=&quot;segment1&quot;&gt;
+      &lt;div class=&quot;circle&quot;&gt;
+        &lt;h2&gt;Step 1&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;content&quot;&gt;
+        &lt;h2&gt;Pre-Bariatric&lt;/h2&gt;
+        &lt;p&gt;If you are interested in bariatric surgery to help you lose weight, our NYBG specialists can help you find the best procedure.<span class="diff-removed">-&amp;nbsp;</span>&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;segment2&quot;&gt;
+      &lt;div class=&quot;circle&quot;&gt;
+        &lt;h2&gt;Step 2&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;content&quot;&gt;
+        &lt;h2&gt;Post-Bariatric&lt;/h2&gt;
+        &lt;p&gt;Once your surgery is complete you will begin to notice your weight dropping, making excess skin more of a concern.<span class="diff-removed">-&amp;nbsp;</span>&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;segment3&quot;&gt;
+      &lt;div class=&quot;circle&quot;&gt;
+        &lt;h2&gt;Step 3&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;content&quot;&gt;
+        &lt;h2&gt;Body Contouring&lt;/h2&gt;
+        &lt;p&gt;Our surgeons can help contour your frame after weight loss by removing excess skin to give you a more sculpted shape.<span class="diff-removed">-&amp;nbsp;</span>&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</div>
+                </div>
+            </div>
+            
+            <div class="diff-panel">
+                <div class="diff-header"> 🔴Site dev (http://plasticsurgery-06-2025.local)</div>
+                <div class="diff-content">
+                    <div class="diff-line">&lt;div class=&quot;mod_home_step  container&quot; data-s3-module=&quot;&quot;&gt;
+  &lt;div class=&quot;row wow &quot; data-wow-duration=&quot;2s&quot; style=&quot;visibility: hidden; animation-duration: 2s; animation-name: none;&quot;&gt;
+    &lt;div class=&quot;segment1&quot;&gt;
+      &lt;div class=&quot;circle&quot;&gt;
+        &lt;h2&gt;Step 1&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;content&quot;&gt;
+        &lt;h2&gt;Pre-Bariatric&lt;/h2&gt;
+        &lt;p&gt;If you are interested in bariatric surgery to help you lose weight, our NYBG specialists can help you find the best procedure.<span class="diff-added">+ </span>&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;segment2&quot;&gt;
+      &lt;div class=&quot;circle&quot;&gt;
+        &lt;h2&gt;Step 2&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;content&quot;&gt;
+        &lt;h2&gt;Post-Bariatric&lt;/h2&gt;
+        &lt;p&gt;Once your surgery is complete you will begin to notice your weight dropping, making excess skin more of a concern.<span class="diff-added">+ </span>&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;segment3&quot;&gt;
+      &lt;div class=&quot;circle&quot;&gt;
+        &lt;h2&gt;Step 3&lt;/h2&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;content&quot;&gt;
+        &lt;h2&gt;Body Contouring&lt;/h2&gt;
+        &lt;p&gt;Our surgeons can help contour your frame after weight loss by removing excess skin to give you a more sculpted shape.<span class="diff-added">+ </span>&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats">
+            <span class="added">+3 additions</span>
+            <span style="margin: 0 8px;">•</span>
+            <span class="removed">-3 deletions</span>
+        </div>
+    </div>
+</body>
+</html>

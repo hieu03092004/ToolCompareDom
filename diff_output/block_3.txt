@@ -1,0 +1,34 @@
+======= BLOCK 3 =======
+
+------ From URL A ------
+<div class="mod_columns_two viewport container" data-s3-module="">
+  <div class="row ">
+    <h2 data-api-key="title">Proven procedures, <span class="block-desktop">timeless aesthetics</span></h2>
+    <div class="content ">
+      <div class="item wow fadeInLeft" data-api-key="content_left" style="visibility: hidden; animation-name: none;">
+        <p>Our recognized leadership in body contouring techniques and procedures comes from having some of the top plastic surgeons in the nation. What makes them stand out is experience, dedication, and continual education. Through thousands of procedures – and every patient is unique – they’ve achieved a highly developed ability to skillfully achieve the aesthetics each of our patients hope for.</p>
+      </div>
+      <div class="item wow fadeInRight" data-api-key="content_right" style="visibility: hidden; animation-name: none;">
+        <p><strong>When you enter our office, you can expect to receive the best and most comprehensive care possible. We’ll show you before and after results that may inspire you.</strong></p>
+        <p><a href="/body/" class="btn-alt">View all body procedures</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_columns_two viewport container" data-s3-module="">
+  <div class="row ">
+    <h2 data-api-key="title">Proven procedures, <span class="block-desktop">timeless aesthetics</span></h2>
+    <div class="content ">
+      <div class="item wow fadeInLeft" data-api-key="content_left" style="visibility: hidden; animation-name: none;">
+        <p>Our recognized leadership in body contouring techniques and procedures comes from having some of the top plastic surgeons in the nation. What makes them stand out is experience, dedication, and continual education. Through thousands of procedures – and every patient is unique – they’ve achieved a highly developed ability to skillfully achieve the aesthetics each of our patients hope for.</p>
+      </div>
+      <div class="item wow fadeInRight" data-api-key="content_right" style="visibility: hidden; animation-name: none;">
+        <p><strong>When you enter our office, you can expect to receive the best and most comprehensive care possible. We’ll show you before and after results that may inspire you.</strong></p>
+        <p><a href="body/" class="btn-alt">View all body procedures</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+

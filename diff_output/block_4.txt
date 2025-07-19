@@ -1,0 +1,725 @@
+======= BLOCK 4 =======
+
+------ From URL A ------
+<div class="mod_content_slider container  " data-s3-module="">
+  <div class="row">
+    <div class="tns-outer" id="tns2-ow">
+      <div class="tns-nav" aria-label="Carousel Pagination"><button type="button" data-nav="0" aria-controls="tns2" style="" aria-label="Carousel Page 1 (Current Slide)" class="tns-nav-active"></button><button type="button" data-nav="1" tabindex="-1" aria-controls="tns2" style="" aria-label="Carousel Page 2"></button><button type="button" data-nav="2" tabindex="-1" aria-controls="tns2" style="display:none" aria-label="Carousel Page 3"></button><button type="button" data-nav="3" tabindex="-1" aria-controls="tns2" style="display:none" aria-label="Carousel Page 4"></button><button type="button" data-nav="4" tabindex="-1" aria-controls="tns2" style="display:none" aria-label="Carousel Page 5"></button></div>
+      <div class="tns-liveregion tns-visually-hidden" aria-live="polite" aria-atomic="true">slide <span class="current">10 to 13</span> of 5</div>
+      <div id="tns2-mw" class="tns-ovh">
+        <div class="tns-inner" id="tns2-iw">
+          <div class="cslider normal  tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal" id="tns2" style="transition-duration: 0s; transform: translate3d(-39.1304%, 0px, 0px);">
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1200ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1500ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1500ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/butt-lift-and-augmentation/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/butt-lift-and-augmentation/" class="cta">
+                    <span class="block">More about</span> Butt Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/tummy-tuck/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/tummy-tuck/" class="cta">
+                    <span class="block">More about</span> Tummy Tuck
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1200ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1500ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1500ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/butt-lift-and-augmentation/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/butt-lift-and-augmentation/" class="cta">
+                    <span class="block">More about</span> Butt Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="300ms" id="tns2-item0" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/tummy-tuck/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/tummy-tuck/" class="cta">
+                    <span class="block">More about</span> Tummy Tuck
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="600ms" id="tns2-item1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="900ms" id="tns2-item2" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="1200ms" id="tns2-item3" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item" data-wow-delay="1500ms" id="tns2-item4" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1500ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/butt-lift-and-augmentation/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/butt-lift-and-augmentation/" class="cta">
+                    <span class="block">More about</span> Butt Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/tummy-tuck/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/tummy-tuck/" class="cta">
+                    <span class="block">More about</span> Tummy Tuck
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1200ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1500ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1500ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/butt-lift-and-augmentation/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/butt-lift-and-augmentation/" class="cta">
+                    <span class="block">More about</span> Butt Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/tummy-tuck/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/tummy-tuck/" class="cta">
+                    <span class="block">More about</span> Tummy Tuck
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1200ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="/body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img src="https://www.datocms-assets.com/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="/body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tns-controls" tabindex="0"><button type="button" data-controls="prev" aria-label="Prev button" tabindex="-1" aria-controls="tns2"></button><button type="button" data-controls="next" aria-label="Next button" tabindex="-1" aria-controls="tns2"></button></div>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_content_slider container  " data-s3-module="">
+  <div class="row">
+    <div class="tns-outer" id="tns2-ow">
+      <div class="tns-liveregion tns-visually-hidden" aria-live="polite" aria-atomic="true">slide <span class="current">10 to 13</span> of 5</div>
+      <div id="tns2-mw" class="tns-ovh">
+        <div class="tns-inner" id="tns2-iw">
+          <div class="cslider normal  tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal" id="tns2" style="transition-duration: 0s; transform: translate3d(-39.1304%, 0px, 0px);">
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1200ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1500ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1500ms; animation-name: none;">
+              <div class="content">
+                <a href="body/butt-lift-and-augmentation/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/butt-lift-and-augmentation/" class="cta">
+                    <span class="block">More about</span> Butt Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content">
+                <a href="body/tummy-tuck/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/tummy-tuck/" class="cta">
+                    <span class="block">More about</span> Tummy Tuck
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1200ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1500ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1500ms; animation-name: none;">
+              <div class="content">
+                <a href="body/butt-lift-and-augmentation/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/butt-lift-and-augmentation/" class="cta">
+                    <span class="block">More about</span> Butt Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="300ms" id="tns2-item0" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content">
+                <a href="body/tummy-tuck/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/tummy-tuck/" class="cta">
+                    <span class="block">More about</span> Tummy Tuck
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="600ms" id="tns2-item1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="900ms" id="tns2-item2" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-active" data-wow-delay="1200ms" id="tns2-item3" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item" data-wow-delay="1500ms" id="tns2-item4" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1500ms; animation-name: none;">
+              <div class="content">
+                <a href="body/butt-lift-and-augmentation/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/butt-lift-and-augmentation/" class="cta">
+                    <span class="block">More about</span> Butt Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content">
+                <a href="body/tummy-tuck/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/tummy-tuck/" class="cta">
+                    <span class="block">More about</span> Tummy Tuck
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1200ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1500ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1500ms; animation-name: none;">
+              <div class="content">
+                <a href="body/butt-lift-and-augmentation/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400563-butt-lift-and-augmentation.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/butt-lift-and-augmentation/" class="cta">
+                    <span class="block">More about</span> Butt Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="300ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 300ms; animation-name: none;">
+              <div class="content">
+                <a href="body/tummy-tuck/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643305556-tummy-tuck.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/tummy-tuck/" class="cta">
+                    <span class="block">More about</span> Tummy Tuck
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="600ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 600ms; animation-name: none;">
+              <div class="content">
+                <a href="body/liposuction/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665"> <img decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335391-liposuction.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Liposuction" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/liposuction/" class="cta">
+                    <span class="block">More about</span> Liposuction
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="900ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 900ms; animation-name: none;">
+              <div class="content">
+                <a href="body/body-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643335442-body-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Body Lift" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/body-lift/" class="cta">
+                    <span class="block">More about</span> Body Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeIn tns-item tns-slide-cloned" data-wow-delay="1200ms" aria-hidden="true" tabindex="-1" style="visibility: hidden; animation-delay: 1200ms; animation-name: none;">
+              <div class="content">
+                <a href="body/thigh-lift/">
+                  <picture class="">
+                    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=630 2x">
+                    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665"> <img loading="lazy" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643400574-thigh-lift.jpg?auto=format,compress&amp;w=665" width="665" height="720" alt="Tummy Tuck" draggable="false">
+                  </picture>
+                </a>
+                <div class="button-area">
+                  <a href="body/thigh-lift/" class="cta">
+                    <span class="block">More about</span> Thigh Lift
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tns-controls" tabindex="0"><button type="button" data-controls="prev" aria-label="Prev button" tabindex="-1" aria-controls="tns2"></button><button type="button" data-controls="next" aria-label="Next button" tabindex="-1" aria-controls="tns2"></button></div>
+    </div>
+  </div>
+</div>
+

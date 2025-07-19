@@ -1,0 +1,62 @@
+======= BLOCK 9 =======
+
+------ From URL A ------
+<div class="mod_half_image   links half-image container wow fadeInLeft" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row  flipped">
+    <div class="media">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643667248-transformation.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643667248-transformation.jpg?auto=format,compress&amp;w=630 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643667248-transformation.jpg?auto=format,compress&amp;w=649"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643667248-transformation.jpg?auto=format,compress&amp;w=649" loading="lazy" data-lazyload="img" width="649" height="501" alt="Patient results after weight loss surgery with NYBG Plastic Surgery " draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy ">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Safe &amp; Effective Outcomes</span></h2>
+        <h2>Transformative Surgery After Weightloss</h2>
+        <p>Our recognized leadership in body contouring techniques and procedures comes from having some of the top plastic surgeons in the nation. What makes them stand out is experience, dedication, and continual education. Through thousands of procedures – and every patient is unique – they’ve achieved a highly developed ability to skillfully achieve the aesthetics each of our patients hope for. When you enter our office, you can expect to receive the best and most comprehensive care possible. We’ll show you before and after results that may inspire you.</p>
+      </div>
+    </div>
+    <div class="accent wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+      <picture class="accent-image">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643222005-logomark.png?auto=format,compress&amp;w=226"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643222005-logomark.png?auto=format,compress&amp;w=226" loading="lazy" data-lazyload="img" width="226" height="226" alt="NYBG Plastic Surgery" draggable="false" data-api-key="image">
+      </picture>
+      <p class="wow fadeInUp" data-wow-duration="3s" style="visibility: hidden; animation-duration: 3s; animation-name: none;">A new body is a new you.</p>
+    </div>
+    <div class="row links-list">
+      <a href="/body/plastic-surgery-after-weight-loss/" role="link" aria-label="Link to Plastic Surgery After Weight Loss page">Plastic Surgery After Weight Loss</a>
+      <a href="/body/body-lift/" role="link" aria-label="Link to Body Lift page">Body Lift</a>
+      <a href="/body/skin-removal-surgery/" role="link" aria-label="Link to Skin Removal Surgery page">Skin Removal Surgery</a>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_half_image   links half-image container wow fadeInLeft" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row  flipped">
+    <div class="media">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643667248-transformation.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643667248-transformation.jpg?auto=format,compress&amp;w=630 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643667248-transformation.jpg?auto=format,compress&amp;w=649"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643667248-transformation.jpg?auto=format,compress&amp;w=649" loading="lazy" data-lazyload="img" width="649" height="501" alt="Patient results after weight loss surgery with NYBG Plastic Surgery " draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy ">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Safe &amp; Effective Outcomes</span></h2>
+        <h2>Transformative Surgery After Weightloss</h2>
+        <p>Our recognized leadership in body contouring techniques and procedures comes from having some of the top plastic surgeons in the nation. What makes them stand out is experience, dedication, and continual education. Through thousands of procedures – and every patient is unique – they’ve achieved a highly developed ability to skillfully achieve the aesthetics each of our patients hope for. When you enter our office, you can expect to receive the best and most comprehensive care possible. We’ll show you before and after results that may inspire you.</p>
+      </div>
+    </div>
+    <div class="accent wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+      <picture class="accent-image">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643222005-logomark.png?auto=format,compress&amp;w=226"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643222005-logomark.png?auto=format,compress&amp;w=226" loading="lazy" data-lazyload="img" width="226" height="226" alt="NYBG Plastic Surgery" draggable="false" data-api-key="image">
+      </picture>
+      <p class="wow fadeInUp" data-wow-duration="3s" style="visibility: hidden; animation-duration: 3s; animation-name: none;">A new body is a new you.</p>
+    </div>
+    <div class="row links-list">
+      <a href="body/plastic-surgery-after-weight-loss/" role="link" aria-label="Link to Plastic Surgery After Weight Loss page">Plastic Surgery After Weight Loss</a>
+      <a href="body/body-lift/" role="link" aria-label="Link to Body Lift page">Body Lift</a>
+      <a href="body/skin-removal-surgery/" role="link" aria-label="Link to Skin Removal Surgery page">Skin Removal Surgery</a>
+    </div>
+  </div>
+</div>
+

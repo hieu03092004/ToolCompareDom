@@ -1,0 +1,112 @@
+======= BLOCK 12 =======
+
+------ From URL A ------
+<div class="mod_home_video_grid  container" data-s3-module="">
+  <div class="row">
+    <div class="copyblock">
+      <h2>Watch more real patient testimonials</h2>
+      <p>Hear what some of our patients have to say about their experience with the New York Bariatric Group.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="grid">
+      <a href="https://www.youtube.com/watch?v=GCIefUIsBcI" class="link popup-video">
+        <div class="item">
+          <div class="media">
+            <picture class="">
+              <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139133-homepage9.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139133-homepage9.jpg?auto=format,compress&amp;w=630 2x">
+              <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139133-homepage9.jpg?auto=format,compress&amp;w=570"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139133-homepage9.jpg?auto=format,compress&amp;w=570" loading="lazy" data-lazyload="img" width="570" height="618" alt="Donna" draggable="false">
+            </picture>
+          </div>
+          <h3 class="title">Watch Donna's inspiring testimonial</h3>
+        </div>
+      </a>
+
+      <a href="https://www.youtube.com/watch?v=qlf9ES1EQS0" class="link popup-video">
+        <div class="item">
+          <div class="media">
+            <picture class="">
+              <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139137-homepage10.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139137-homepage10.jpg?auto=format,compress&amp;w=630 2x">
+              <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139137-homepage10.jpg?auto=format,compress&amp;w=570"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139137-homepage10.jpg?auto=format,compress&amp;w=570" loading="lazy" data-lazyload="img" width="570" height="618" alt="Ross" draggable="false">
+            </picture>
+          </div>
+          <h3 class="title">Watch Ross' inspiring testimonial</h3>
+        </div>
+      </a>
+
+      <a href="https://www.youtube.com/watch?v=F5S_O_yxWxg" class="link popup-video">
+        <div class="item">
+          <div class="media">
+            <picture class="">
+              <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139140-homepage11.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139140-homepage11.jpg?auto=format,compress&amp;w=630 2x">
+              <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139140-homepage11.jpg?auto=format,compress&amp;w=570"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139140-homepage11.jpg?auto=format,compress&amp;w=570" loading="lazy" data-lazyload="img" width="570" height="618" alt="Mary" draggable="false">
+            </picture>
+          </div>
+          <h3 class="title">Watch Mary's inspiring testimonial</h3>
+        </div>
+      </a>
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="copyblock">
+      <p><a href="/about/testimonials/" class="btn">More patient testimonials</a></p>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_home_video_grid  container" data-s3-module="">
+  <div class="row">
+    <div class="copyblock">
+      <h2>Watch more real patient testimonials</h2>
+      <p>Hear what some of our patients have to say about their experience with the New York Bariatric Group.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="grid">
+      <a href="https://www.youtube.com/watch?v=GCIefUIsBcI" class="link popup-video">
+        <div class="item">
+          <div class="media">
+            <picture class="">
+              <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139133-homepage9.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139133-homepage9.jpg?auto=format,compress&amp;w=630 2x">
+              <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139133-homepage9.jpg?auto=format,compress&amp;w=570"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139133-homepage9.jpg?auto=format,compress&amp;w=570" loading="lazy" data-lazyload="img" width="570" height="618" alt="Donna" draggable="false">
+            </picture>
+          </div>
+          <h3 class="title">Watch Donna’s inspiring testimonial</h3>
+        </div>
+      </a>
+
+      <a href="https://www.youtube.com/watch?v=qlf9ES1EQS0" class="link popup-video">
+        <div class="item">
+          <div class="media">
+            <picture class="">
+              <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139137-homepage10.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139137-homepage10.jpg?auto=format,compress&amp;w=630 2x">
+              <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139137-homepage10.jpg?auto=format,compress&amp;w=570"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139137-homepage10.jpg?auto=format,compress&amp;w=570" loading="lazy" data-lazyload="img" width="570" height="618" alt="Ross" draggable="false">
+            </picture>
+          </div>
+          <h3 class="title">Watch Ross’ inspiring testimonial</h3>
+        </div>
+      </a>
+
+      <a href="https://www.youtube.com/watch?v=F5S_O_yxWxg" class="link popup-video">
+        <div class="item">
+          <div class="media">
+            <picture class="">
+              <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139140-homepage11.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139140-homepage11.jpg?auto=format,compress&amp;w=630 2x">
+              <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139140-homepage11.jpg?auto=format,compress&amp;w=570"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139140-homepage11.jpg?auto=format,compress&amp;w=570" loading="lazy" data-lazyload="img" width="570" height="618" alt="Mary" draggable="false">
+            </picture>
+          </div>
+          <h3 class="title">Watch Mary’s inspiring testimonial</h3>
+        </div>
+      </a>
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="copyblock">
+      <p><a href="about/testimonials/" class="btn">More patient testimonials</a></p>
+    </div>
+  </div>
+</div>
+

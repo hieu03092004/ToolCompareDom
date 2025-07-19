@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block 2 Comparison</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f6f8fa;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 6px;
+            border: 1px solid #d0d7de;
+            overflow: hidden;
+        }
+        .header {
+            background: #f6f8fa;
+            border-bottom: 1px solid #d0d7de;
+            padding: 16px 20px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 16px;
+            font-weight: 600;
+            color: #24292f;
+        }
+        .file-header {
+            background: #f6f8fa;
+            border-bottom: 1px solid #d0d7de;
+            padding: 8px 16px;
+            font-size: 12px;
+            color: #656d76;
+            display: flex;
+            align-items: center;
+        }
+        .file-header .url {
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            background: #f3f4f6;
+            padding: 2px 6px;
+            border-radius: 3px;
+            margin-left: 8px;
+        }
+        .diff-container {
+            display: flex;
+        }
+        .diff-panel {
+            flex: 1;
+            border-right: 1px solid #d0d7de;
+        }
+        .diff-panel:last-child {
+            border-right: none;
+        }
+        .diff-header {
+            background: #f6f8fa;
+            padding: 8px 12px;
+            border-bottom: 1px solid #d0d7de;
+            font-size: 12px;
+            font-weight: 600;
+            color: #24292f;
+        }
+        .diff-content {
+            padding: 8px;
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-size: 12px;
+            line-height: 1.45;
+            overflow-x: auto;
+            min-height: 200px;
+        }
+        .diff-line {
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        .diff-added {
+            background-color: #ccfdf7;
+            color: #064e3b;
+            text-decoration: none;
+            padding: 1px 2px;
+            border-radius: 2px;
+        }
+        .diff-removed {
+            background-color: #fecaca;
+            color: #991b1b;
+            text-decoration: none;
+            padding: 1px 2px;
+            border-radius: 2px;
+        }
+        .url-a {
+            background: #ffeaa7;
+        }
+        .url-b {
+            background: #d4f7d4;
+        }
+        .stats {
+            padding: 12px 16px;
+            background: #f6f8fa;
+            border-top: 1px solid #d0d7de;
+            font-size: 12px;
+            color: #656d76;
+        }
+        .stats .added {
+            color: #1a7f37;
+            font-weight: 600;
+        }
+        .stats .removed {
+            color: #cf222e;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📋 Block 2 Comparison Report</h1>
+        </div>
+        
+        <div class="file-header">
+            <span>🔍 Comparing:</span>
+            <span class="url url-a">https://www.nybgplasticsurgery.com (Base)</span>
+            <span>vs</span>
+            <span class="url url-b">http://plasticsurgery-06-2025.local (Target)</span>
+        </div>
+
+        <div class="diff-container">
+            <div class="diff-panel">
+                <div class="diff-header">🟢 Site gốc (https://www.nybgplasticsurgery.com)</div>
+                <div class="diff-content">
+                    <div class="diff-line">&lt;div class=&quot;mod_logo_list container&quot; data-s3-module=&quot;&quot;&gt;
+  &lt;div class=&quot;row logo-container wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;150ms&quot; style=&quot;visibility: hidden; animation-delay: 150ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807482-aff-certified.png?auto=format,compress&amp;amp;w=265&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807482-aff-certified.png?auto=format,compress&amp;amp;w=265&quot;&gt; &lt;img src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807482-aff-certified.png?auto=format,compress&amp;amp;w=265&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807482-aff-certified.png?auto=format,compress&amp;amp;w=265&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;265&quot; height=&quot;283&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;300ms&quot; style=&quot;visibility: hidden; animation-delay: 300ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source media=&quot;(max-width:420px)&quot; srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=630 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=630 2x&quot;&gt;
+        &lt;source media=&quot;(max-width:800px)&quot; srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=800, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1200 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=800, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1200 2x&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1000&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1000&quot;&gt; &lt;img src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1000&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1000&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;1000&quot; height=&quot;782&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;450ms&quot; style=&quot;visibility: hidden; animation-delay: 450ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807499-logo-asfaps.jpg?auto=format,compress&amp;amp;w=300&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807499-logo-asfaps.jpg?auto=format,compress&amp;amp;w=300&quot;&gt; &lt;img src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807499-logo-asfaps.jpg?auto=format,compress&amp;amp;w=300&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807499-logo-asfaps.jpg?auto=format,compress&amp;amp;w=300&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;300&quot; height=&quot;224&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;600ms&quot; style=&quot;visibility: hidden; animation-delay: 600ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1675791787-digital-plaque.jpg?auto=format,compress&amp;amp;w=256&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1675791787-digital-plaque.jpg?auto=format,compress&amp;amp;w=256&quot;&gt; &lt;img src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1675791787-digital-plaque.jpg?auto=format,compress&amp;amp;w=256&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1675791787-digital-plaque.jpg?auto=format,compress&amp;amp;w=256&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;256&quot; height=&quot;320&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;750ms&quot; style=&quot;visibility: hidden; animation-delay: 750ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source media=&quot;(max-width:420px)&quot; srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=630 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=630 2x&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=600&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=600&quot;&gt; &lt;img src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=600&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=600&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;600&quot; height=&quot;192&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;900ms&quot; style=&quot;visibility: hidden; animation-delay: 900ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807487-asobps.jpg?auto=format,compress&amp;amp;w=300&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807487-asobps.jpg?auto=format,compress&amp;amp;w=300&quot;&gt; &lt;img src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807487-asobps.jpg?auto=format,compress&amp;amp;w=300&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1640807487-asobps.jpg?auto=format,compress&amp;amp;w=300&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;300&quot; height=&quot;307&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;1050ms&quot; style=&quot;visibility: hidden; animation-delay: 1050ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source media=&quot;(max-width:420px)&quot; srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=630 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=630 2x&quot;&gt;
+        &lt;source media=&quot;(max-width:800px)&quot; srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=800, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1200 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=800, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1200 2x&quot;&gt;
+        &lt;source media=&quot;(max-width:1400px)&quot; srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1400, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=2100 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1400, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=2100 2x&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1434&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1434&quot;&gt; &lt;img src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1434&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1434&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;1434&quot; height=&quot;1434&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</div>
+                </div>
+            </div>
+            
+            <div class="diff-panel">
+                <div class="diff-header"> 🔴Site dev (http://plasticsurgery-06-2025.local)</div>
+                <div class="diff-content">
+                    <div class="diff-line">&lt;div class=&quot;mod_logo_list container&quot; data-s3-module=&quot;&quot;&gt;
+  &lt;div class=&quot;row logo-container wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;150ms&quot; style=&quot;visibility: hidden; animation-delay: 150ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807482-aff-certified.png?auto=format,compress&amp;amp;w=265&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807482-aff-certified.png?auto=format,compress&amp;amp;w=265&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807482-aff-certified.png?auto=format,compress&amp;amp;w=265&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807482-aff-certified.png?auto=format,compress&amp;amp;w=265&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;265&quot; height=&quot;283&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;300ms&quot; style=&quot;visibility: hidden; animation-delay: 300ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source media=&quot;(max-width:420px)&quot; srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=630 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=630 2x&quot;&gt;
+        &lt;source media=&quot;(max-width:800px)&quot; srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=800, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1200 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=800, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1200 2x&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1000&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1000&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1000&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807491-asops-logo.png?auto=format,compress&amp;amp;w=1000&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;1000&quot; height=&quot;782&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;450ms&quot; style=&quot;visibility: hidden; animation-delay: 450ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807499-logo-asfaps.jpg?auto=format,compress&amp;amp;w=300&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807499-logo-asfaps.jpg?auto=format,compress&amp;amp;w=300&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807499-logo-asfaps.jpg?auto=format,compress&amp;amp;w=300&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807499-logo-asfaps.jpg?auto=format,compress&amp;amp;w=300&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;300&quot; height=&quot;224&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;600ms&quot; style=&quot;visibility: hidden; animation-delay: 600ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1675791787-digital-plaque.jpg?auto=format,compress&amp;amp;w=256&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1675791787-digital-plaque.jpg?auto=format,compress&amp;amp;w=256&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1675791787-digital-plaque.jpg?auto=format,compress&amp;amp;w=256&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1675791787-digital-plaque.jpg?auto=format,compress&amp;amp;w=256&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;256&quot; height=&quot;320&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;750ms&quot; style=&quot;visibility: hidden; animation-delay: 750ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source media=&quot;(max-width:420px)&quot; srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=630 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=630 2x&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=600&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=600&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=600&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807507-logo-super-doctor.png?auto=format,compress&amp;amp;w=600&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;600&quot; height=&quot;192&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;900ms&quot; style=&quot;visibility: hidden; animation-delay: 900ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807487-asobps.jpg?auto=format,compress&amp;amp;w=300&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807487-asobps.jpg?auto=format,compress&amp;amp;w=300&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807487-asobps.jpg?auto=format,compress&amp;amp;w=300&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1640807487-asobps.jpg?auto=format,compress&amp;amp;w=300&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;300&quot; height=&quot;307&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;img wow fadeIn&quot; data-wow-delay=&quot;1050ms&quot; style=&quot;visibility: hidden; animation-delay: 1050ms; animation-name: none;&quot;&gt;
+      &lt;picture class=&quot;wow fadeInUp&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+        &lt;source media=&quot;(max-width:420px)&quot; srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=630 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=420, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=630 2x&quot;&gt;
+        &lt;source media=&quot;(max-width:800px)&quot; srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=800, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1200 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=800, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1200 2x&quot;&gt;
+        &lt;source media=&quot;(max-width:1400px)&quot; srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1400, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=2100 2x&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1400, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=2100 2x&quot;&gt;
+        &lt;source srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1434&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1434&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1434&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1674760251-castle-c-2023-dr-small-4.png?auto=format,compress&amp;amp;w=1434&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;1434&quot; height=&quot;1434&quot; alt=&quot;Doctor credentials&quot; draggable=&quot;false&quot; data-lazyload-loaded=&quot;true&quot;&gt;
+      &lt;/picture&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats">
+            <span class="added">+215 additions</span>
+            <span style="margin: 0 8px;">•</span>
+            <span class="removed">-156 deletions</span>
+        </div>
+    </div>
+</body>
+</html>

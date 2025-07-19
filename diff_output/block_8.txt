@@ -1,0 +1,68 @@
+======= BLOCK 8 =======
+
+------ From URL A ------
+<div class="mod_home_step  container" data-s3-module="">
+  <div class="row wow " data-wow-duration="2s" style="visibility: hidden; animation-duration: 2s; animation-name: none;">
+    <div class="segment1">
+      <div class="circle">
+        <h2>Step 1</h2>
+      </div>
+      <div class="content">
+        <h2>Pre-Bariatric</h2>
+        <p>If you are interested in bariatric surgery to help you lose weight, our NYBG specialists can help you find the best procedure.&nbsp;</p>
+      </div>
+    </div>
+    <div class="segment2">
+      <div class="circle">
+        <h2>Step 2</h2>
+      </div>
+      <div class="content">
+        <h2>Post-Bariatric</h2>
+        <p>Once your surgery is complete you will begin to notice your weight dropping, making excess skin more of a concern.&nbsp;</p>
+      </div>
+    </div>
+    <div class="segment3">
+      <div class="circle">
+        <h2>Step 3</h2>
+      </div>
+      <div class="content">
+        <h2>Body Contouring</h2>
+        <p>Our surgeons can help contour your frame after weight loss by removing excess skin to give you a more sculpted shape.&nbsp;</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+------ From URL B ------
+<div class="mod_home_step  container" data-s3-module="">
+  <div class="row wow " data-wow-duration="2s" style="visibility: hidden; animation-duration: 2s; animation-name: none;">
+    <div class="segment1">
+      <div class="circle">
+        <h2>Step 1</h2>
+      </div>
+      <div class="content">
+        <h2>Pre-Bariatric</h2>
+        <p>If you are interested in bariatric surgery to help you lose weight, our NYBG specialists can help you find the best procedure. </p>
+      </div>
+    </div>
+    <div class="segment2">
+      <div class="circle">
+        <h2>Step 2</h2>
+      </div>
+      <div class="content">
+        <h2>Post-Bariatric</h2>
+        <p>Once your surgery is complete you will begin to notice your weight dropping, making excess skin more of a concern. </p>
+      </div>
+    </div>
+    <div class="segment3">
+      <div class="circle">
+        <h2>Step 3</h2>
+      </div>
+      <div class="content">
+        <h2>Body Contouring</h2>
+        <p>Our surgeons can help contour your frame after weight loss by removing excess skin to give you a more sculpted shape. </p>
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,30 @@
+======= BLOCK 1 =======
+
+------ From URL A ------
+<div class="mod_home_hero banner" data-s3-module="">
+  <div class="row">
+    <h1>Leaders in Body Contouring <span class="block-desktop">After Weight Loss</span></h1>
+    <a href="/contact/" class="btn validate">Make an Appointment</a>
+  </div>
+  <picture class="background">
+    <source media="(max-width:420px)" srcset="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=900, https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1350 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=900, https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1350 2x">
+    <source media="(max-width:800px)" srcset="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=800&amp;q=90&amp;sharp=5, https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1200&amp;q=90&amp;sharp=5 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=800&amp;q=90&amp;sharp=5, https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1200&amp;q=90&amp;sharp=5 2x">
+    <source media="(max-width:1400px)" srcset="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1400&amp;q=90&amp;sharp=5, https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2100&amp;q=90&amp;sharp=5 2x" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1400&amp;q=90&amp;sharp=5, https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2100&amp;q=90&amp;sharp=5 2x">
+    <source srcset="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2200&amp;q=90&amp;sharp=5" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2200&amp;q=90&amp;sharp=5"> <img src="https://www.datocms-assets.com/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2200&amp;q=90&amp;sharp=5" width="2200" height="979" alt="Four women in their bra and underwear" draggable="false" data-api-key="background">
+  </picture>
+</div>
+
+------ From URL B ------
+<div class="mod_home_hero banner" data-s3-module="">
+  <div class="row">
+    <h1>Leaders in Body Contouring <span class="block-desktop">After Weight Loss</span></h1>
+    <a href="contact/" class="btn validate">Make an Appointment</a>
+  </div>
+  <picture class="background">
+    <source media="(max-width:420px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=900, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1350 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=900, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1350 2x">
+    <source media="(max-width:800px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=800&amp;q=90&amp;sharp=5, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1200&amp;q=90&amp;sharp=5 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=800&amp;q=90&amp;sharp=5, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1200&amp;q=90&amp;sharp=5 2x">
+    <source media="(max-width:1400px)" srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1400&amp;q=90&amp;sharp=5, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2100&amp;q=90&amp;sharp=5 2x" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=1400&amp;q=90&amp;sharp=5, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2100&amp;q=90&amp;sharp=5 2x">
+    <source srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2200&amp;q=90&amp;sharp=5" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2200&amp;q=90&amp;sharp=5"> <img fetchpriority="high" decoding="async" src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139214-homepage-hero.jpg?auto=format,compress&amp;w=2200&amp;q=90&amp;sharp=5" width="2200" height="979" alt="Four women in their bra and underwear" draggable="false" data-api-key="background">
+  </picture>
+</div>
+

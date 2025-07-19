@@ -1,0 +1,19 @@
+{
+  "name": "comparedom",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "diff": "^8.0.2",
+    "express": "^5.1.0",
+    "js-beautify": "^1.15.4",
+    "puppeteer-core": "^24.14.0",
+    "sharp": "^0.34.3"
+  }
+}

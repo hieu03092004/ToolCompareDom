@@ -1,0 +1,186 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block 13 Comparison</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f6f8fa;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 6px;
+            border: 1px solid #d0d7de;
+            overflow: hidden;
+        }
+        .header {
+            background: #f6f8fa;
+            border-bottom: 1px solid #d0d7de;
+            padding: 16px 20px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 16px;
+            font-weight: 600;
+            color: #24292f;
+        }
+        .file-header {
+            background: #f6f8fa;
+            border-bottom: 1px solid #d0d7de;
+            padding: 8px 16px;
+            font-size: 12px;
+            color: #656d76;
+            display: flex;
+            align-items: center;
+        }
+        .file-header .url {
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            background: #f3f4f6;
+            padding: 2px 6px;
+            border-radius: 3px;
+            margin-left: 8px;
+        }
+        .diff-container {
+            display: flex;
+        }
+        .diff-panel {
+            flex: 1;
+            border-right: 1px solid #d0d7de;
+        }
+        .diff-panel:last-child {
+            border-right: none;
+        }
+        .diff-header {
+            background: #f6f8fa;
+            padding: 8px 12px;
+            border-bottom: 1px solid #d0d7de;
+            font-size: 12px;
+            font-weight: 600;
+            color: #24292f;
+        }
+        .diff-content {
+            padding: 8px;
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-size: 12px;
+            line-height: 1.45;
+            overflow-x: auto;
+            min-height: 200px;
+        }
+        .diff-line {
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        .diff-added {
+            background-color: #ccfdf7;
+            color: #064e3b;
+            text-decoration: none;
+            padding: 1px 2px;
+            border-radius: 2px;
+        }
+        .diff-removed {
+            background-color: #fecaca;
+            color: #991b1b;
+            text-decoration: none;
+            padding: 1px 2px;
+            border-radius: 2px;
+        }
+        .url-a {
+            background: #ffeaa7;
+        }
+        .url-b {
+            background: #d4f7d4;
+        }
+        .stats {
+            padding: 12px 16px;
+            background: #f6f8fa;
+            border-top: 1px solid #d0d7de;
+            font-size: 12px;
+            color: #656d76;
+        }
+        .stats .added {
+            color: #1a7f37;
+            font-weight: 600;
+        }
+        .stats .removed {
+            color: #cf222e;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📋 Block 13 Comparison Report</h1>
+        </div>
+        
+        <div class="file-header">
+            <span>🔍 Comparing:</span>
+            <span class="url url-a">https://www.nybgplasticsurgery.com (Base)</span>
+            <span>vs</span>
+            <span class="url url-b">http://plasticsurgery-06-2025.local (Target)</span>
+        </div>
+
+        <div class="diff-container">
+            <div class="diff-panel">
+                <div class="diff-header">🟢 Site gốc (https://www.nybgplasticsurgery.com)</div>
+                <div class="diff-content">
+                    <div class="diff-line">&lt;div class=&quot;mod_home_gallery container cta  wow &quot; data-s3-module=&quot;&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+  &lt;picture class=&quot;icon&quot;&gt;
+    &lt;source srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643222005-logomark.png?auto=format,compress&amp;amp;w=226&quot;&gt; &lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643222005-logomark.png?auto=format,compress&amp;amp;w=226&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;226&quot; height=&quot;226&quot; alt=&quot;NYBG Plastic Surgery&quot; draggable=&quot;false&quot;&gt;
+  &lt;/picture&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;text&quot;&gt;
+      &lt;h2&gt;Gallery&lt;/h2&gt;
+      &lt;a class=&quot;btn validate&quot; href=&quot;<span class="diff-removed">-/</span>gallery/&quot; title=&quot;View gallery images&quot; aria-label=&quot;View gallery images&quot;&gt;View Gallery&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;picture class=&quot;background&quot;&gt;
+    &lt;source media=&quot;(max-width:420px)&quot; srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=420, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=630 2x&quot;&gt;
+    &lt;source media=&quot;(max-width:800px)&quot; srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=800, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=1200 2x&quot;&gt;
+    &lt;source media=&quot;(max-width:1400px)&quot; srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=1400, https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=2100 2x&quot;&gt;
+    &lt;source srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=2200&quot;&gt; &lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-src=&quot;https://<span class="diff-removed">-www.datocms</span>-<span class="diff-removed">-assets</span>.<span class="diff-removed">-com</span>/60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=2200&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;2200&quot; height=&quot;834&quot; alt=&quot;Close up of three women's abdominal area, wearing bikinis &quot; draggable=&quot;false&quot;&gt;
+  &lt;/picture&gt;
+&lt;/div&gt;</div>
+                </div>
+            </div>
+            
+            <div class="diff-panel">
+                <div class="diff-header"> 🔴Site dev (http://plasticsurgery-06-2025.local)</div>
+                <div class="diff-content">
+                    <div class="diff-line">&lt;div class=&quot;mod_home_gallery container cta  wow &quot; data-s3-module=&quot;&quot; style=&quot;visibility: hidden; animation-name: none;&quot;&gt;
+  &lt;picture class=&quot;icon&quot;&gt;
+    &lt;source srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643222005-logomark.png?auto=format,compress&amp;amp;w=226&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643222005-logomark.png?auto=format,compress&amp;amp;w=226&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;226&quot; height=&quot;226&quot; alt=&quot;NYBG Plastic Surgery&quot; draggable=&quot;false&quot;&gt;
+  &lt;/picture&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;text&quot;&gt;
+      &lt;h2&gt;Gallery&lt;/h2&gt;
+      &lt;a class=&quot;btn validate&quot; href=&quot;gallery/&quot; title=&quot;View gallery images&quot; aria-label=&quot;View gallery images&quot;&gt;View Gallery&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;picture class=&quot;background&quot;&gt;
+    &lt;source media=&quot;(max-width:420px)&quot; srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=420, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=630 2x&quot;&gt;
+    &lt;source media=&quot;(max-width:800px)&quot; srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=800, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=1200 2x&quot;&gt;
+    &lt;source media=&quot;(max-width:1400px)&quot; srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=1400, https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=2100 2x&quot;&gt;
+    &lt;source srcset=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-srcset=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=2200&quot;&gt; &lt;img <span class="diff-added">+decoding=&quot;async&quot; </span>src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot; data-lazyload-src=&quot;https://<span class="diff-added">+plasticsurgery</span>-<span class="diff-added">+develop</span>.<span class="diff-added">+box.gravityapps.net</span>/<span class="diff-added">+wp-content/uploads/site/</span>60131/1643139144-homepage12.jpg?auto=format,compress&amp;amp;w=2200&quot; loading=&quot;lazy&quot; data-lazyload=&quot;img&quot; width=&quot;2200&quot; height=&quot;834&quot; alt=&quot;Close up of three women's abdominal area, wearing bikinis &quot; draggable=&quot;false&quot;&gt;
+  &lt;/picture&gt;
+&lt;/div&gt;</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats">
+            <span class="added">+42 additions</span>
+            <span style="margin: 0 8px;">•</span>
+            <span class="removed">-31 deletions</span>
+        </div>
+    </div>
+</body>
+</html>

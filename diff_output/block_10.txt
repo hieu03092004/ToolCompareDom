@@ -1,0 +1,360 @@
+======= BLOCK 10 =======
+
+------ From URL A ------
+<div class="mod_success_stories_block mod_half_image half-image " data-s3-module="">
+
+  <div class="row links-list">
+    <a href="javascript:void(0);" role="link" aria-label="Link to Caitlyn's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=944"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=944" loading="lazy" data-lazyload="img" width="944" height="943" alt="Caitlyn's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Caitlyn</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Lorena's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=958"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=958" loading="lazy" data-lazyload="img" width="958" height="953" alt="Lorena's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Lorena</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Mary's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=956"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=956" loading="lazy" data-lazyload="img" width="956" height="952" alt="Mary's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Mary</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Patti's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=955"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=955" loading="lazy" data-lazyload="img" width="955" height="953" alt="Patti's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Patti</span>
+    </a>
+    <a href="javascript:void(0);" class="active" role="link" aria-label="Link to Valerie's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=954"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=954" loading="lazy" data-lazyload="img" width="954" height="951" alt="Valerie's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Valerie</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Yessenia's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=953"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=953" loading="lazy" data-lazyload="img" width="953" height="947" alt="Yessenia's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Yessenia</span>
+    </a>
+  </div>
+
+  <div class="bg-color">
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393197-before1.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643393197-before1.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393197-before1.png?auto=format,compress&amp;w=708"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643393197-before1.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Caitlyn's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=944"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=944" loading="lazy" data-lazyload="img" width="944" height="943" alt="Caitlyn's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Caitlyn</h2>
+          <p>After losing all the weight, I had excess skin, a lot of rashes, and my clothes didn't fit properly. Dr. Small made me feel incredibly comfortable, he was thorough about what to expect and what results would be best for me. My results are incredible. When I look in the mirror, I still can't believe it's me. They removed 10 1/2 lbs of excess skin. My life has forever changed.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393206-before2.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643393206-before2.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393206-before2.png?auto=format,compress&amp;w=708"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643393206-before2.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Lorena's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=958"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=958" loading="lazy" data-lazyload="img" width="958" height="953" alt="Lorena's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Lorena</h2>
+          <p>The surgery changed my life 100%, 180 degrees. I am more active, I can do anything I want to do. I don't have to worry anymore whether or not I'm going to fit in a chair or if I can go out with my friends if I can keep up when we go hiking or when we go to the beach. I even went paddle boarding this year which is something I never thought I would be able to do.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393217-before3.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643393217-before3.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393217-before3.png?auto=format,compress&amp;w=708"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643393217-before3.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Mary's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=956"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731547-mary-big.png?auto=format,compress&amp;w=956" loading="lazy" data-lazyload="img" width="956" height="952" alt="Mary's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Mary</h2>
+          <p>From the moment I walked through the doors I was comfortable and knew this was the place my life would change. I followed the detailed instructions I was given and that’s what lead me to success. Monthly follow ups and continued guidance helped me through my journey. I couldn’t wait to meet Dr. Small and continue my transformation with plastics. He understood exactly what my goals were and carried out some of his best work. I’m waiting for my next procedure, and I can not wait to be a completely new girl.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393222-before4.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643393222-before4.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393222-before4.png?auto=format,compress&amp;w=708"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643393222-before4.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Patti's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=955"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731551-patti-big.png?auto=format,compress&amp;w=955" loading="lazy" data-lazyload="img" width="955" height="953" alt="Patti's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Patti</h2>
+          <p>Since losing all the weight (136 lbs), I literally lost half of myself which is amazing, it's hard for me to believe. I am able to do so much more. So much more with my family, so much more with my children at school, I am able to get on the floor with them a lot easier than I could in the past and roll around with them and play and chase them all over the place and its a great feeling. I think my kids love the new Miss Patti too.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item active">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393226-before5.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643393226-before5.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393226-before5.png?auto=format,compress&amp;w=708"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643393226-before5.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Valerie's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=954"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=954" loading="lazy" data-lazyload="img" width="954" height="951" alt="Valerie's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Valerie</h2>
+          <p>I had weight loss surgery six years ago. I decided to have the surgery to be healthy and to show my family and three daughters that you can just do anything that you put your mind to.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393231-before6.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643393231-before6.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643393231-before6.png?auto=format,compress&amp;w=708"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643393231-before6.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Yessenia's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=953"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643731537-donna-big.png?auto=format,compress&amp;w=953" loading="lazy" data-lazyload="img" width="953" height="947" alt="Yessenia's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Yessenia</h2>
+          <p>I feel accomplished and free. I now can say I'm no longer just living the length of my life but the width as well. Dr. Garber gave my children, husband, and family back their mom, wife, and my life. Never thought I would ever wear a size small anything. I’m living again.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+------ From URL B ------
+<div class="mod_success_stories_block mod_half_image half-image " data-s3-module="">
+
+  <div class="row links-list">
+    <a href="javascript:void(0);" class="active" role="link" aria-label="Link to Caitlyn's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=944"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=944" loading="lazy" data-lazyload="img" width="944" height="943" alt="Caitlyn's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Caitlyn</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Lorena's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=958"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=958" loading="lazy" data-lazyload="img" width="958" height="953" alt="Lorena's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Lorena</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Mary's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=956"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=956" loading="lazy" data-lazyload="img" width="956" height="952" alt="Mary's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Mary</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Patti's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=955"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=955" loading="lazy" data-lazyload="img" width="955" height="953" alt="Patti's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Patti</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Valerie's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=954"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=954" loading="lazy" data-lazyload="img" width="954" height="951" alt="Valerie's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Valerie</span>
+    </a>
+    <a href="javascript:void(0);" role="link" aria-label="Link to Yessenia's patient journey after page">
+      <picture class="thumb">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=630 2x">
+        <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=1200 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=953"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=953" loading="lazy" data-lazyload="img" width="953" height="947" alt="Yessenia's patient journey after" draggable="false" data-api-key="image">
+      </picture>
+      <span>Yessenia</span>
+    </a>
+  </div>
+
+  <div class="bg-color">
+    <div class="row half-image-row item active">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393197-before1.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393197-before1.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393197-before1.png?auto=format,compress&amp;w=708"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393197-before1.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Caitlyn's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=944"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731529-caitlyn-big.png?auto=format,compress&amp;w=944" loading="lazy" data-lazyload="img" width="944" height="943" alt="Caitlyn's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Caitlyn</h2>
+          <p>After losing all the weight, I had excess skin, a lot of rashes, and my clothes didn’t fit properly. Dr. Small made me feel incredibly comfortable, he was thorough about what to expect and what results would be best for me. My results are incredible. When I look in the mirror, I still can’t believe it’s me. They removed 10 1/2 lbs of excess skin. My life has forever changed.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393206-before2.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393206-before2.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393206-before2.png?auto=format,compress&amp;w=708"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393206-before2.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Lorena's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=958"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731543-lorena-big.png?auto=format,compress&amp;w=958" loading="lazy" data-lazyload="img" width="958" height="953" alt="Lorena's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Lorena</h2>
+          <p>The surgery changed my life 100%, 180 degrees. I am more active, I can do anything I want to do. I don’t have to worry anymore whether or not I’m going to fit in a chair or if I can go out with my friends if I can keep up when we go hiking or when we go to the beach. I even went paddle boarding this year which is something I never thought I would be able to do.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393217-before3.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393217-before3.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393217-before3.png?auto=format,compress&amp;w=708"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393217-before3.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Mary's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=956"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731547-mary-big.png?auto=format,compress&amp;w=956" loading="lazy" data-lazyload="img" width="956" height="952" alt="Mary's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Mary</h2>
+          <p>From the moment I walked through the doors I was comfortable and knew this was the place my life would change. I followed the detailed instructions I was given and that’s what lead me to success. Monthly follow ups and continued guidance helped me through my journey. I couldn’t wait to meet Dr. Small and continue my transformation with plastics. He understood exactly what my goals were and carried out some of his best work. I’m waiting for my next procedure, and I can not wait to be a completely new girl.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393222-before4.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393222-before4.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393222-before4.png?auto=format,compress&amp;w=708"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393222-before4.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Patti's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=955"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731551-patti-big.png?auto=format,compress&amp;w=955" loading="lazy" data-lazyload="img" width="955" height="953" alt="Patti's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Patti</h2>
+          <p>Since losing all the weight (136 lbs), I literally lost half of myself which is amazing, it’s hard for me to believe. I am able to do so much more. So much more with my family, so much more with my children at school, I am able to get on the floor with them a lot easier than I could in the past and roll around with them and play and chase them all over the place and its a great feeling. I think my kids love the new Miss Patti too.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393226-before5.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393226-before5.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393226-before5.png?auto=format,compress&amp;w=708"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393226-before5.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Valerie's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=954"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731555-valerie-big.png?auto=format,compress&amp;w=954" loading="lazy" data-lazyload="img" width="954" height="951" alt="Valerie's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Valerie</h2>
+          <p>I had weight loss surgery six years ago. I decided to have the surgery to be healthy and to show my family and three daughters that you can just do anything that you put your mind to.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row half-image-row item">
+      <div class="media">
+        <picture class="patient-before">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393231-before6.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393231-before6.png?auto=format,compress&amp;w=630 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393231-before6.png?auto=format,compress&amp;w=708"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643393231-before6.png?auto=format,compress&amp;w=708" loading="lazy" data-lazyload="img" width="708" height="707" alt="Yessenia's patient journey before" draggable="false" data-api-key="image">
+        </picture>
+        <picture class="patient-after">
+          <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=630 2x">
+          <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=1200 2x">
+          <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=953"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643731537-donna-big.png?auto=format,compress&amp;w=953" loading="lazy" data-lazyload="img" width="953" height="947" alt="Yessenia's patient journey after" draggable="false" data-api-key="image">
+        </picture>
+      </div>
+      <div class="copy">
+        <div class="inner" data-api-key="content">
+          <h2><span class="small">Patient Journeys</span></h2>
+          <h2>Yessenia</h2>
+          <p>I feel accomplished and free. I now can say I’m no longer just living the length of my life but the width as well. Dr. Garber gave my children, husband, and family back their mom, wife, and my life. Never thought I would ever wear a size small anything. I’m living again.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+

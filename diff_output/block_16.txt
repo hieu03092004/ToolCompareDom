@@ -1,0 +1,70 @@
+======= BLOCK 16 =======
+
+------ From URL A ------
+<div class="mod_half_image_special dark links half-image container wow fadeInLeft" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row mb-40 flipped">
+    <div class="media">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139156-homepage15.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139156-homepage15.jpg?auto=format,compress&amp;w=630 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139156-homepage15.jpg?auto=format,compress&amp;w=630"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139156-homepage15.jpg?auto=format,compress&amp;w=630" loading="lazy" data-lazyload="img" width="630" height="837" alt="Close up of woman's body with abdominal area exposed " draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy ">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Minimal Downtime, Lasting Results</span>Non-Surgical</h2>
+        <p>Non-surgical aesthetic and corrective procedures have made great headway in the past two decades and we’ve stayed in the lead throughout this time. For patients who want to shape parts of their body and remove small amounts of fat, there is a combination of techniques and devices that can tighten skin while dislodging fat in the area. Dermal fillers, BOTOX, laser procedures, and freezing techniques have all produced amazing non-invasive results that can last for a long time.</p>
+        <p>These advances in cosmetic improvement are often about achieving the correct balance in the face and body to bring out your unique beauty.</p>
+        <p><a href="/non-surgical/" class="btn">View all non-surgical procedures</a></p>
+      </div>
+    </div>
+    <div class="row links-list">
+      <a href="/non-surgical/coolsculpting/" role="link" aria-label="Link to CoolSculpting page">CoolSculpting</a>
+      <a href="/non-surgical/botox/" role="link" aria-label="Link to BOTOX page">BOTOX</a>
+      <a href="/non-surgical/dermal-fillers/" role="link" aria-label="Link to Dermal Fillers page">Dermal Fillers</a>
+      <a href="/non-surgical/laser-therapy/" role="link" aria-label="Link to Laser Therapy page">Laser Therapy</a>
+      <a href="/non-surgical/skinpen/" role="link" aria-label="Link to SkinPen page">SkinPen</a>
+      <a href="https://shop.stopobesityforlife.com/collections/skin-care/" target="blank" rel="noopener" role="link" aria-label="Link to Skincare page in a new tab">Skincare</a>
+    </div>
+  </div>
+  <picture class="background">
+    <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=420, https://www.datocms-assets.com/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=630 2x">
+    <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=800, https://www.datocms-assets.com/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=1200 2x">
+    <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=1400, https://www.datocms-assets.com/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=2100 2x">
+    <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://www.datocms-assets.com/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=2200"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://www.datocms-assets.com/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=2200" loading="lazy" data-lazyload="img" width="2200" height="1075" alt="Image with a blue tint showing a woman recieving procedure on her thigh" draggable="false" data-api-key="image">
+  </picture>
+</div>
+
+------ From URL B ------
+<div class="mod_half_image_special dark links half-image container wow fadeInLeft" data-s3-module="" style="visibility: hidden; animation-name: none;">
+  <div class="row half-image-row mb-40 flipped">
+    <div class="media">
+      <picture class="background">
+        <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139156-homepage15.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139156-homepage15.jpg?auto=format,compress&amp;w=630 2x">
+        <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139156-homepage15.jpg?auto=format,compress&amp;w=630"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139156-homepage15.jpg?auto=format,compress&amp;w=630" loading="lazy" data-lazyload="img" width="630" height="837" alt="Close up of woman's body with abdominal area exposed " draggable="false" data-api-key="image">
+      </picture>
+    </div>
+    <div class="copy ">
+      <div class="inner" data-api-key="content">
+        <h2><span class="small">Minimal Downtime, Lasting Results</span>Non-Surgical</h2>
+        <p>Non-surgical aesthetic and corrective procedures have made great headway in the past two decades and we’ve stayed in the lead throughout this time. For patients who want to shape parts of their body and remove small amounts of fat, there is a combination of techniques and devices that can tighten skin while dislodging fat in the area. Dermal fillers, BOTOX, laser procedures, and freezing techniques have all produced amazing non-invasive results that can last for a long time.</p>
+        <p>These advances in cosmetic improvement are often about achieving the correct balance in the face and body to bring out your unique beauty.</p>
+        <p><a href="non-surgical/" class="btn">View all non-surgical procedures</a></p>
+      </div>
+    </div>
+    <div class="row links-list">
+      <a href="non-surgical/coolsculpting/" role="link" aria-label="Link to CoolSculpting page">CoolSculpting</a>
+      <a href="non-surgical/botox/" role="link" aria-label="Link to BOTOX page">BOTOX</a>
+      <a href="non-surgical/dermal-fillers/" role="link" aria-label="Link to Dermal Fillers page">Dermal Fillers</a>
+      <a href="non-surgical/laser-therapy/" role="link" aria-label="Link to Laser Therapy page">Laser Therapy</a>
+      <a href="non-surgical/skinpen/" role="link" aria-label="Link to SkinPen page">SkinPen</a>
+      <a href="https://shop.stopobesityforlife.com/collections/skin-care/" target="blank" rel="noopener" role="link" aria-label="Link to Skincare page in a new tab">Skincare</a>
+    </div>
+  </div>
+  <picture class="background">
+    <source media="(max-width:420px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=420, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=630 2x">
+    <source media="(max-width:800px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=800, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=1200 2x">
+    <source media="(max-width:1400px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=1400, https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=2100 2x">
+    <source srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-srcset="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=2200"> <img decoding="async" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-lazyload-src="https://plasticsurgery-develop.box.gravityapps.net/wp-content/uploads/site/60131/1643139152-homepage14.jpg?auto=format,compress&amp;w=2200" loading="lazy" data-lazyload="img" width="2200" height="1075" alt="Image with a blue tint showing a woman recieving procedure on her thigh" draggable="false" data-api-key="image">
+  </picture>
+</div>
+
